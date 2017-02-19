@@ -1,0 +1,43 @@
+2017-02-18 14:57:49	>>	hunedd (~tyler@2601:199:c201:daa0:42e2:30ff:feca:495b) has joined #archlinux
+2017-02-18 14:57:49	 - 	Topic for #archlinux is "Welcome to Arch Linux World Domination, Inc. <+> Channel rules: https://goo.gl/fkksz9 <+> Pastebins: https://ptpb.pw https://gist.github.com https://bpaste.net <+> Become an official Arch Tester: https://goo.gl/3uvJQk <+> Phasing out i686! | Welcome new ops gehidore and alad | `pacman -Syu libxml++` if you get conflicts"
+2017-02-18 14:57:49	 - 	Topic set by evilgrawity (grawity@wolke.nullroute.eu.org) on Wed, 08 Feb 2017
+2017-02-18 14:57:50	 - 	Channel #archlinux: 1763 nicks (3 ops, 0 voices, 1760 normals)
+2017-02-18 14:57:51	 - 	Channel created on Sun, 15 Feb 2004
+2017-02-18 14:58:06	<<	dadass (~dad@p0o.pw) has left #archlinux
+2017-02-18 14:58:12	earnestly	grawity: What do you mean? https://ptpb.pw/tAZR
+2017-02-18 14:58:34	<<	sadmansk (~Thunderbi@bas1-toronto03-184-145-51-54.dsl.bell.ca) has quit (Ping timeout: 260 seconds)
+2017-02-18 14:58:46	<<	T-Sourcemaker (~Joungai3q@HSI-KBW-37-209-41-76.hsi15.kabel-badenwuerttemberg.de) has quit (Client Quit)
+2017-02-18 14:58:49	>>	flipper-maniac_ (~quassel@unaffiliated/flipper-maniac) has joined #archlinux
+2017-02-18 14:58:51	>>	datamoshr (~john@unaffiliated/datamoshr) has joined #archlinux
+2017-02-18 14:59:03	earnestly	grawity: Or https://ptpb.pw/cGBA
+2017-02-18 14:59:21	<<	Gathis (~TheBlack@unaffiliated/gathis) has quit (Remote host closed the connection)
+2017-02-18 14:59:33	<<	fengshaun (~fengshaun@unaffiliated/fengshaun) has quit (Quit: bibi!)
+2017-02-18 14:59:51	>>	lspw (~lspw@93-35-185-61.ip56.fastwebnet.it) has joined #archlinux
+2017-02-18 14:59:52	>>	fengshaun (~fengshaun@unaffiliated/fengshaun) has joined #archlinux
+2017-02-18 14:59:58	<<	InverseRhombus (~InverseRh@2a02:c7d:da1e:1300:cdfa:1af:75ff:1fdb) has quit (Quit: Leaving)
+2017-02-18 14:59:59	<<	joekamprad (~joekampra@pD9FABBA1.dip0.t-ipconnect.de) has left #archlinux
+2017-02-18 15:00:17	<<	Th3R0b (~bobby@a838.ip20.netikka.fi) has quit (Ping timeout: 260 seconds)
+2017-02-18 15:00:18	<<	flipper-maniac (~quassel@unaffiliated/flipper-maniac) has quit (Ping timeout: 260 seconds)
+2017-02-18 15:01:09	>>	joshuaBPMan_ (~user@72.12.220.132) has joined #archlinux
+2017-02-18 15:01:17	earnestly	BrainDamage: heh https://hackaday.com/2015/01/13/cheap-diy-microscope-sees-individual-atoms/
+2017-02-18 15:01:19	@phrik	Title: Cheap DIY Microscope Sees Individual Atoms | Hackaday (at hackaday.com)
+2017-02-18 15:01:31	<<	krabador (~krabador@unaffiliated/krabador) has quit (Quit: Leaving)
+2017-02-18 15:01:59	<<	StCypher (~StCypher@2605:e000:935d:2700:90c:5db6:4fdc:31db) has quit (Ping timeout: 240 seconds)
+2017-02-18 15:02:23	BrainDamage	earnestly: yeah, diy stm are totally doable, I've seen few projects even 10+years ago
+2017-02-18 15:02:29	<<	philwyettreb (~philwyett@host-92-30-222-32.as13285.net) has quit (Quit: Play the game, for the games sake.)
+2017-02-18 15:02:38	earnestly	BrainDamage: Surely the price has come down since then though?
+2017-02-18 15:02:48	BrainDamage	they've never been expensive
+2017-02-18 15:03:05	BrainDamage	just hard to get work "right"
+2017-02-18 15:03:39	BrainDamage	it's essentially a steered needle wth high voltage, and you measure the leak current from tunneling
+2017-02-18 15:03:48	<<	datamoshr (~john@unaffiliated/datamoshr) has quit (Ping timeout: 260 seconds)
+2017-02-18 15:04:20	BrainDamage	commercial steering piezo are expensive as fuck, and always have been, but people cut buzzers in 4 quadrants and diy one
+2017-02-18 15:04:46	earnestly	BrainDamage: What's a buzzer in this context?
+2017-02-18 15:04:51	<<	solenodic (~solenodic@unaffiliated/solenodic) has quit (Ping timeout: 240 seconds)
+2017-02-18 15:05:08	BrainDamage	a component that soundslike "bzzz" when you apply current
+2017-02-18 15:05:20	BrainDamage	like in doorbells
+2017-02-18 15:05:27	earnestly	BrainDamage: But, cutting them in 4 quadrants, then?
+2017-02-18 15:05:34	<<	Avonis (~Avonis@unaffiliated/avonis) has quit (Ping timeout: 260 seconds)
+2017-02-18 15:05:47	BrainDamage	http://www.rpelectronics.com/Media/400/tv4.jpg
+2017-02-18 15:05:50	BrainDamage	they contain this device
+2017-02-18 15:06:01	earnestly	(Also, what was that new colour scheme developed to replace JET, the free one?  It's mostly green)
+2017-02-18 15:06:10	>>	clmg (~user@73.96.113.10) has joined #archlinux

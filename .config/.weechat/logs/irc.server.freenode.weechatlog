@@ -1,0 +1,421 @@
+2017-02-18 14:46:05	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-18 14:46:06	 - 	irc: connected to irc.freenode.net/6667 (2001:6b0:e:2a18::118)
+2017-02-18 14:46:06	 - 	leguin.freenode.net: *** Looking up your hostname...
+2017-02-18 14:46:06	 - 	leguin.freenode.net: *** Checking Ident
+2017-02-18 14:46:06	 - 	leguin.freenode.net: *** Couldn't look up your hostname
+2017-02-18 14:46:12	 - 	leguin.freenode.net: *** No Ident response
+2017-02-18 14:46:12	 - 	Welcome to the freenode Internet Relay Chat Network tyler
+2017-02-18 14:46:12	 - 	Your host is leguin.freenode.net[2001:6b0:e:2a18::118/6667], running version ircd-seven-1.1.4
+2017-02-18 14:46:12	 - 	This server was created Tue Jan 3 2017 at 13:35:13 UTC
+2017-02-18 14:46:12	 - 	leguin.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-02-18 14:46:12	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-02-18 14:46:12	 - 	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-02-18 14:46:12	 - 	ETRACE SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-02-18 14:46:12	 - 	There are 123 users and 84963 invisible on 27 servers
+2017-02-18 14:46:12	 - 	27 :IRC Operators online
+2017-02-18 14:46:12	 - 	21 :unknown connection(s)
+2017-02-18 14:46:12	 - 	57149 :channels formed
+2017-02-18 14:46:12	 - 	I have 6848 clients and 1 servers
+2017-02-18 14:46:12	 - 	6848 9080 :Current local users 6848, max 9080
+2017-02-18 14:46:12	 - 	85086 91751 :Current global users 85086, max 91751
+2017-02-18 14:46:12	 - 	Highest connection count: 9081 (9080 clients) (569680 connections received)
+2017-02-18 14:46:12	 - 	- leguin.freenode.net Message of the Day -
+2017-02-18 14:46:12	 - 	- Welcome to leguin.freenode.net in Ume?, Sweden, EU! Thanks to
+2017-02-18 14:46:12	 - 	- the Academic Computer Club at Ume? University for sponsoring
+2017-02-18 14:46:12	 - 	- this server!
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	- LE GUIN, URSULA K. (1929-) Born in Berkeley, California,
+2017-02-18 14:46:12	 - 	- Ursula Le Guin is an american author primarily known for
+2017-02-18 14:46:12	 - 	- her Science Fiction and Fantasy. She has been awarded the
+2017-02-18 14:46:12	 - 	- Hugo and Nebula awards, and is best known for her Earthsea
+2017-02-18 14:46:12	 - 	- and Hainish series.
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	- Welcome to freenode - supporting the free and open source
+2017-02-18 14:46:12	 - 	- software communities since 1998.
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	- By connecting to freenode you indicate that you have read and
+2017-02-18 14:46:12	 - 	- accept our policies as set out on http://www.freenode.net
+2017-02-18 14:46:12	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2017-02-18 14:46:12	 - 	- any network-related questions or queries, where a number of
+2017-02-18 14:46:12	 - 	- volunteer staff and helpful users will be happy to assist you.
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2017-02-18 14:46:12	 - 	- together with like-minded FOSS enthusiasts for talks and
+2017-02-18 14:46:12	 - 	- real-life collaboration.
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	- We would like to thank Private Internet Access
+2017-02-18 14:46:12	 - 	- (https://www.privateinternetaccess.com/) and the other
+2017-02-18 14:46:12	 - 	- organisations that help keep freenode and our other projects
+2017-02-18 14:46:12	 - 	- running for their sustained support.
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	- In particular we would like to thank the sponsor
+2017-02-18 14:46:12	 - 	- of this server, details of which can be found above.
+2017-02-18 14:46:12	 - 	-
+2017-02-18 14:46:12	 - 	End of /MOTD command.
+2017-02-18 14:46:12	 - 	User mode [+i] by tyler
+2017-02-18 14:46:12	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2017-02-18 14:46:13	 - 	NickServ (NickServ@services.): You have 30 seconds to identify to your nickname before it is changed.
+2017-02-18 14:46:28	 - 	You are now known as hunedd
+2017-02-18 14:46:28	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2017-02-18 14:46:42	 - 	MSG(NickServ): identify *********
+2017-02-18 14:46:42	 - 	NickServ (NickServ@services.): You are now identified for hunedd.
+2017-02-18 14:50:40	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-18 14:50:41	 - 	irc: connected to irc.freenode.net/6667 (2001:6b0:e:2a18::118)
+2017-02-18 14:50:41	 - 	leguin.freenode.net: *** Looking up your hostname...
+2017-02-18 14:50:41	 - 	leguin.freenode.net: *** Checking Ident
+2017-02-18 14:50:41	 - 	leguin.freenode.net: *** Couldn't look up your hostname
+2017-02-18 14:50:48	 - 	leguin.freenode.net: *** No Ident response
+2017-02-18 14:50:48	 - 	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-02-18 14:50:48	 - 	irc: client capability, requesting: sasl
+2017-02-18 14:50:48	 - 	irc: client capability, enabled: sasl
+2017-02-18 14:50:48	 - 	You are now logged in as hunedd. (tyler!tyler@2601:199:c201:daa0:42e2:30ff:feca:495b)
+2017-02-18 14:50:49	 - 	SASL authentication successful
+2017-02-18 14:50:49	 - 	Welcome to the freenode Internet Relay Chat Network tyler
+2017-02-18 14:50:49	 - 	Your host is leguin.freenode.net[2001:6b0:e:2a18::118/6667], running version ircd-seven-1.1.4
+2017-02-18 14:50:49	 - 	This server was created Tue Jan 3 2017 at 13:35:13 UTC
+2017-02-18 14:50:49	 - 	leguin.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-02-18 14:50:49	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-02-18 14:50:49	 - 	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-02-18 14:50:49	 - 	ETRACE SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-02-18 14:50:49	 - 	There are 124 users and 84943 invisible on 27 servers
+2017-02-18 14:50:49	 - 	27 :IRC Operators online
+2017-02-18 14:50:49	 - 	19 :unknown connection(s)
+2017-02-18 14:50:49	 - 	57154 :channels formed
+2017-02-18 14:50:49	 - 	I have 6855 clients and 1 servers
+2017-02-18 14:50:49	 - 	6855 9080 :Current local users 6855, max 9080
+2017-02-18 14:50:49	 - 	85067 91751 :Current global users 85067, max 91751
+2017-02-18 14:50:49	 - 	Highest connection count: 9081 (9080 clients) (569772 connections received)
+2017-02-18 14:50:49	 - 	- leguin.freenode.net Message of the Day -
+2017-02-18 14:50:49	 - 	- Welcome to leguin.freenode.net in Ume?, Sweden, EU! Thanks to
+2017-02-18 14:50:49	 - 	- the Academic Computer Club at Ume? University for sponsoring
+2017-02-18 14:50:49	 - 	- this server!
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	- LE GUIN, URSULA K. (1929-) Born in Berkeley, California,
+2017-02-18 14:50:49	 - 	- Ursula Le Guin is an american author primarily known for
+2017-02-18 14:50:49	 - 	- her Science Fiction and Fantasy. She has been awarded the
+2017-02-18 14:50:49	 - 	- Hugo and Nebula awards, and is best known for her Earthsea
+2017-02-18 14:50:49	 - 	- and Hainish series.
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	- Welcome to freenode - supporting the free and open source
+2017-02-18 14:50:49	 - 	- software communities since 1998.
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	- By connecting to freenode you indicate that you have read and
+2017-02-18 14:50:49	 - 	- accept our policies as set out on http://www.freenode.net
+2017-02-18 14:50:49	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2017-02-18 14:50:49	 - 	- any network-related questions or queries, where a number of
+2017-02-18 14:50:49	 - 	- volunteer staff and helpful users will be happy to assist you.
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2017-02-18 14:50:49	 - 	- together with like-minded FOSS enthusiasts for talks and
+2017-02-18 14:50:49	 - 	- real-life collaboration.
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	- We would like to thank Private Internet Access
+2017-02-18 14:50:49	 - 	- (https://www.privateinternetaccess.com/) and the other
+2017-02-18 14:50:49	 - 	- organisations that help keep freenode and our other projects
+2017-02-18 14:50:49	 - 	- running for their sustained support.
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	- In particular we would like to thank the sponsor
+2017-02-18 14:50:49	 - 	- of this server, details of which can be found above.
+2017-02-18 14:50:49	 - 	-
+2017-02-18 14:50:49	 - 	End of /MOTD command.
+2017-02-18 14:50:49	 - 	User mode [+i] by tyler
+2017-02-18 14:50:49	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2017-02-18 14:50:49	 - 	NickServ (NickServ@services.): You have 30 seconds to identify to your nickname before it is changed.
+2017-02-18 14:51:05	 - 	irc: disconnected from server
+2017-02-18 14:51:16	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-18 14:51:17	 - 	irc: connected to irc.freenode.net/6667 (2001:6b0:e:2a18::118)
+2017-02-18 14:51:17	 - 	leguin.freenode.net: *** Looking up your hostname...
+2017-02-18 14:51:17	 - 	leguin.freenode.net: *** Checking Ident
+2017-02-18 14:51:17	 - 	leguin.freenode.net: *** Couldn't look up your hostname
+2017-02-18 14:51:23	 - 	leguin.freenode.net: *** No Ident response
+2017-02-18 14:51:23	 - 	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-02-18 14:51:23	 - 	irc: client capability, requesting: sasl
+2017-02-18 14:51:23	 - 	irc: client capability, enabled: sasl
+2017-02-18 14:51:24	 - 	You are now logged in as hunedd. (tyler!tyler@2601:199:c201:daa0:42e2:30ff:feca:495b)
+2017-02-18 14:51:24	 - 	SASL authentication successful
+2017-02-18 14:51:24	 - 	Welcome to the freenode Internet Relay Chat Network tyler
+2017-02-18 14:51:24	 - 	Your host is leguin.freenode.net[2001:6b0:e:2a18::118/6667], running version ircd-seven-1.1.4
+2017-02-18 14:51:24	 - 	This server was created Tue Jan 3 2017 at 13:35:13 UTC
+2017-02-18 14:51:24	 - 	leguin.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-02-18 14:51:24	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-02-18 14:51:24	 - 	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE KNOCK :are supported by this server
+2017-02-18 14:51:24	 - 	ETRACE SAFELIST ELIST=CTU WHOX :are supported by this server
+2017-02-18 14:51:24	 - 	There are 124 users and 84947 invisible on 27 servers
+2017-02-18 14:51:24	 - 	27 :IRC Operators online
+2017-02-18 14:51:24	 - 	14 :unknown connection(s)
+2017-02-18 14:51:24	 - 	57141 :channels formed
+2017-02-18 14:51:24	 - 	I have 6853 clients and 1 servers
+2017-02-18 14:51:24	 - 	6853 9080 :Current local users 6853, max 9080
+2017-02-18 14:51:24	 - 	85071 91751 :Current global users 85071, max 91751
+2017-02-18 14:51:24	 - 	Highest connection count: 9081 (9080 clients) (569786 connections received)
+2017-02-18 14:51:24	 - 	- leguin.freenode.net Message of the Day -
+2017-02-18 14:51:24	 - 	- Welcome to leguin.freenode.net in Ume?, Sweden, EU! Thanks to
+2017-02-18 14:51:24	 - 	- the Academic Computer Club at Ume? University for sponsoring
+2017-02-18 14:51:24	 - 	- this server!
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	- LE GUIN, URSULA K. (1929-) Born in Berkeley, California,
+2017-02-18 14:51:24	 - 	- Ursula Le Guin is an american author primarily known for
+2017-02-18 14:51:24	 - 	- her Science Fiction and Fantasy. She has been awarded the
+2017-02-18 14:51:24	 - 	- Hugo and Nebula awards, and is best known for her Earthsea
+2017-02-18 14:51:24	 - 	- and Hainish series.
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	- Welcome to freenode - supporting the free and open source
+2017-02-18 14:51:24	 - 	- software communities since 1998.
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	- By connecting to freenode you indicate that you have read and
+2017-02-18 14:51:24	 - 	- accept our policies as set out on http://www.freenode.net
+2017-02-18 14:51:24	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2017-02-18 14:51:24	 - 	- any network-related questions or queries, where a number of
+2017-02-18 14:51:24	 - 	- volunteer staff and helpful users will be happy to assist you.
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2017-02-18 14:51:24	 - 	- together with like-minded FOSS enthusiasts for talks and
+2017-02-18 14:51:24	 - 	- real-life collaboration.
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	- We would like to thank Private Internet Access
+2017-02-18 14:51:24	 - 	- (https://www.privateinternetaccess.com/) and the other
+2017-02-18 14:51:24	 - 	- organisations that help keep freenode and our other projects
+2017-02-18 14:51:24	 - 	- running for their sustained support.
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	- In particular we would like to thank the sponsor
+2017-02-18 14:51:24	 - 	- of this server, details of which can be found above.
+2017-02-18 14:51:24	 - 	-
+2017-02-18 14:51:24	 - 	End of /MOTD command.
+2017-02-18 14:51:24	 - 	User mode [+i] by tyler
+2017-02-18 14:51:24	 - 	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2017-02-18 14:51:24	 - 	NickServ (NickServ@services.): You have 30 seconds to identify to your nickname before it is changed.
+2017-02-18 14:51:42	 - 	You are now known as hunedd
+2017-02-18 14:54:29	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-18 14:54:29	 - 	irc: connected to irc.freenode.net/6667 (2001:6b0:e:2a18::118)
+2017-02-18 14:54:29	 - 	leguin.freenode.net: *** Looking up your hostname...
+2017-02-18 14:54:30	 - 	leguin.freenode.net: *** Checking Ident
+2017-02-18 14:54:30	 - 	leguin.freenode.net: *** Couldn't look up your hostname
+2017-02-18 14:54:38	 - 	leguin.freenode.net: *** No Ident response
+2017-02-18 14:54:38	 - 	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-02-18 14:54:38	 - 	irc: client capability, requesting: sasl
+2017-02-18 14:54:38	 - 	*: " :Erroneous Nickname
+2017-02-18 14:54:38	 !!! 	irc: nickname """ is invalid, trying nickname ""_"
+2017-02-18 14:54:38	 - 	irc: client capability, enabled: sasl
+2017-02-18 14:54:38	 - 	*: "_ :Erroneous Nickname
+2017-02-18 14:54:38	 !!! 	irc: nickname ""_" is invalid, trying nickname ""__"
+2017-02-18 14:54:39	 - 	*: "__ :Erroneous Nickname
+2017-02-18 14:54:39	 !!! 	irc: nickname ""__" is invalid, trying nickname ""___"
+2017-02-18 14:54:40	 - 	You are now logged in as hunedd. (*!tyler@2601:199:c201:daa0:42e2:30ff:feca:495b)
+2017-02-18 14:54:40	 - 	* :SASL authentication successful
+2017-02-18 14:54:41	 - 	*: "___ :Erroneous Nickname
+2017-02-18 14:54:41	 !!! 	irc: nickname ""___" is invalid, trying nickname ""____"
+2017-02-18 14:54:43	 - 	*: "____ :Erroneous Nickname
+2017-02-18 14:54:43	 !!! 	irc: nickname ""____" is invalid, trying nickname ""_____"
+2017-02-18 14:54:45	 - 	*: "_____ :Erroneous Nickname
+2017-02-18 14:54:45	 !!! 	irc: nickname ""_____" is invalid, trying nickname ""______"
+2017-02-18 14:54:45	 - 	*: "______ :Erroneous Nickname
+2017-02-18 14:54:45	 !!! 	irc: nickname ""______" is invalid, trying nickname ""_______"
+2017-02-18 14:54:46	 - 	*: "_______ :Erroneous Nickname
+2017-02-18 14:54:46	 !!! 	irc: nickname ""_______" is invalid, trying nickname ""________"
+2017-02-18 14:54:47	 - 	*: "________ :Erroneous Nickname
+2017-02-18 14:54:47	 !!! 	irc: nickname ""________" is invalid, trying nickname ""_______1"
+2017-02-18 14:54:48	 - 	*: "_______1 :Erroneous Nickname
+2017-02-18 14:54:48	 !!! 	irc: nickname ""_______1" is invalid, trying nickname ""_______2"
+2017-02-18 14:54:49	 - 	*: "_______2 :Erroneous Nickname
+2017-02-18 14:54:49	 !!! 	irc: nickname ""_______2" is invalid, trying nickname ""_______3"
+2017-02-18 14:54:50	 - 	*: "_______3 :Erroneous Nickname
+2017-02-18 14:54:50	 !!! 	irc: nickname ""_______3" is invalid, trying nickname ""_______4"
+2017-02-18 14:54:51	 - 	*: "_______4 :Erroneous Nickname
+2017-02-18 14:54:51	 !!! 	irc: nickname ""_______4" is invalid, trying nickname ""_______5"
+2017-02-18 14:54:52	 - 	*: "_______5 :Erroneous Nickname
+2017-02-18 14:54:52	 !!! 	irc: nickname ""_______5" is invalid, trying nickname ""_______6"
+2017-02-18 14:54:53	 - 	*: "_______6 :Erroneous Nickname
+2017-02-18 14:54:53	 !!! 	irc: nickname ""_______6" is invalid, trying nickname ""_______7"
+2017-02-18 14:54:53	 !!! 	irc: SASL authentication timeout
+2017-02-18 14:54:54	 - 	*: "_______7 :Erroneous Nickname
+2017-02-18 14:54:54	 !!! 	irc: nickname ""_______7" is invalid, trying nickname ""_______8"
+2017-02-18 14:54:56	 - 	*: "_______8 :Erroneous Nickname
+2017-02-18 14:54:56	 !!! 	irc: nickname ""_______8" is invalid, trying nickname ""_______9"
+2017-02-18 14:54:57	 - 	*: "_______9 :Erroneous Nickname
+2017-02-18 14:54:57	 !!! 	irc: nickname ""_______9" is invalid, trying nickname ""______10"
+2017-02-18 14:54:58	 - 	*: "______10 :Erroneous Nickname
+2017-02-18 14:54:58	 !!! 	irc: nickname ""______10" is invalid, trying nickname ""______11"
+2017-02-18 14:54:59	 - 	*: "______11 :Erroneous Nickname
+2017-02-18 14:54:59	 !!! 	irc: nickname ""______11" is invalid, trying nickname ""______12"
+2017-02-18 14:55:00	 - 	*: "______12 :Erroneous Nickname
+2017-02-18 14:55:00	 !!! 	irc: nickname ""______12" is invalid, trying nickname ""______13"
+2017-02-18 14:55:01	 - 	*: "______13 :Erroneous Nickname
+2017-02-18 14:55:01	 !!! 	irc: nickname ""______13" is invalid, trying nickname ""______14"
+2017-02-18 14:55:02	 - 	*: "______14 :Erroneous Nickname
+2017-02-18 14:55:02	 !!! 	irc: nickname ""______14" is invalid, trying nickname ""______15"
+2017-02-18 14:55:03	 - 	*: "______15 :Erroneous Nickname
+2017-02-18 14:55:03	 !!! 	irc: nickname ""______15" is invalid, trying nickname ""______16"
+2017-02-18 14:55:04	 - 	*: "______16 :Erroneous Nickname
+2017-02-18 14:55:04	 !!! 	irc: nickname ""______16" is invalid, trying nickname ""______17"
+2017-02-18 14:55:05	 - 	*: "______17 :Erroneous Nickname
+2017-02-18 14:55:05	 !!! 	irc: nickname ""______17" is invalid, trying nickname ""______18"
+2017-02-18 14:55:06	 - 	*: "______18 :Erroneous Nickname
+2017-02-18 14:55:06	 !!! 	irc: nickname ""______18" is invalid, trying nickname ""______19"
+2017-02-18 14:55:07	 - 	*: "______19 :Erroneous Nickname
+2017-02-18 14:55:07	 !!! 	irc: nickname ""______19" is invalid, trying nickname ""______20"
+2017-02-18 14:55:08	 - 	*: "______20 :Erroneous Nickname
+2017-02-18 14:55:08	 !!! 	irc: nickname ""______20" is invalid, trying nickname ""______21"
+2017-02-18 14:55:09	 - 	*: "______21 :Erroneous Nickname
+2017-02-18 14:55:09	 !!! 	irc: nickname ""______21" is invalid, trying nickname ""______22"
+2017-02-18 14:55:10	 - 	*: "______22 :Erroneous Nickname
+2017-02-18 14:55:10	 !!! 	irc: nickname ""______22" is invalid, trying nickname ""______23"
+2017-02-18 14:55:11	 - 	*: "______23 :Erroneous Nickname
+2017-02-18 14:55:11	 !!! 	irc: nickname ""______23" is invalid, trying nickname ""______24"
+2017-02-18 14:55:12	 - 	*: "______24 :Erroneous Nickname
+2017-02-18 14:55:12	 !!! 	irc: nickname ""______24" is invalid, trying nickname ""______25"
+2017-02-18 14:55:13	 - 	*: "______25 :Erroneous Nickname
+2017-02-18 14:55:13	 !!! 	irc: nickname ""______25" is invalid, trying nickname ""______26"
+2017-02-18 14:55:14	 - 	*: "______26 :Erroneous Nickname
+2017-02-18 14:55:14	 !!! 	irc: nickname ""______26" is invalid, trying nickname ""______27"
+2017-02-18 14:55:15	 - 	*: "______27 :Erroneous Nickname
+2017-02-18 14:55:15	 !!! 	irc: nickname ""______27" is invalid, trying nickname ""______28"
+2017-02-18 14:55:16	 - 	*: "______28 :Erroneous Nickname
+2017-02-18 14:55:16	 !!! 	irc: nickname ""______28" is invalid, trying nickname ""______29"
+2017-02-18 14:55:17	 - 	*: "______29 :Erroneous Nickname
+2017-02-18 14:55:17	 !!! 	irc: nickname ""______29" is invalid, trying nickname ""______30"
+2017-02-18 14:55:18	 - 	*: "______30 :Erroneous Nickname
+2017-02-18 14:55:18	 !!! 	irc: nickname ""______30" is invalid, trying nickname ""______31"
+2017-02-18 14:55:19	 !!! 	Closing Link: 2601:199:c201:daa0:42e2:30ff:feca:495b (Connection timed out)
+2017-02-18 14:55:19	 - 	irc: disconnected from server
+2017-02-18 14:55:19	 - 	irc: reconnecting to server in 10 seconds
+2017-02-18 14:55:29	 - 	irc: reconnecting to server...
+2017-02-18 14:55:29	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-18 14:55:30	 - 	irc: connected to irc.freenode.net/6667 (2001:6b0:e:2a18::118)
+2017-02-18 14:55:30	 - 	leguin.freenode.net: *** Looking up your hostname...
+2017-02-18 14:55:30	 - 	leguin.freenode.net: *** Checking Ident
+2017-02-18 14:55:30	 - 	leguin.freenode.net: *** Couldn't look up your hostname
+2017-02-18 14:55:38	 - 	leguin.freenode.net: *** No Ident response
+2017-02-18 14:55:38	 - 	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-02-18 14:55:38	 - 	irc: client capability, requesting: sasl
+2017-02-18 14:55:38	 - 	*: "______31 :Erroneous Nickname
+2017-02-18 14:55:38	 !!! 	irc: nickname ""______31" is invalid, trying nickname """
+2017-02-18 14:55:38	 - 	irc: client capability, enabled: sasl
+2017-02-18 14:55:38	 - 	*: " :Erroneous Nickname
+2017-02-18 14:55:38	 !!! 	irc: nickname """ is invalid, trying nickname ""_"
+2017-02-18 14:55:39	 - 	*: "_ :Erroneous Nickname
+2017-02-18 14:55:39	 !!! 	irc: nickname ""_" is invalid, trying nickname ""__"
+2017-02-18 14:55:40	 - 	*: "__ :Erroneous Nickname
+2017-02-18 14:55:40	 !!! 	irc: nickname ""__" is invalid, trying nickname ""___"
+2017-02-18 14:55:41	 - 	*: "___ :Erroneous Nickname
+2017-02-18 14:55:41	 !!! 	irc: nickname ""___" is invalid, trying nickname ""____"
+2017-02-18 14:55:42	 - 	*: "____ :Erroneous Nickname
+2017-02-18 14:55:42	 !!! 	irc: nickname ""____" is invalid, trying nickname ""_____"
+2017-02-18 14:55:43	 - 	*: "_____ :Erroneous Nickname
+2017-02-18 14:55:43	 !!! 	irc: nickname ""_____" is invalid, trying nickname ""______"
+2017-02-18 14:55:44	 - 	*: "______ :Erroneous Nickname
+2017-02-18 14:55:44	 !!! 	irc: nickname ""______" is invalid, trying nickname ""_______"
+2017-02-18 14:55:45	 - 	*: "_______ :Erroneous Nickname
+2017-02-18 14:55:45	 !!! 	irc: nickname ""_______" is invalid, trying nickname ""________"
+2017-02-18 14:55:46	 - 	*: "________ :Erroneous Nickname
+2017-02-18 14:55:46	 !!! 	irc: nickname ""________" is invalid, trying nickname ""_______1"
+2017-02-18 14:55:47	 - 	*: "_______1 :Erroneous Nickname
+2017-02-18 14:55:47	 !!! 	irc: nickname ""_______1" is invalid, trying nickname ""_______2"
+2017-02-18 14:55:48	 - 	*: "_______2 :Erroneous Nickname
+2017-02-18 14:55:48	 !!! 	irc: nickname ""_______2" is invalid, trying nickname ""_______3"
+2017-02-18 14:56:33	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-18 14:56:33	 - 	irc: connected to irc.freenode.net/6667 (2a02:2f0d:bff0:1:81:18:73:123)
+2017-02-18 14:56:34	 - 	hobana.freenode.net: *** Looking up your hostname...
+2017-02-18 14:56:34	 - 	hobana.freenode.net: *** Checking Ident
+2017-02-18 14:56:34	 - 	hobana.freenode.net: *** Couldn't look up your hostname
+2017-02-18 14:56:42	 - 	hobana.freenode.net: *** No Ident response
+2017-02-18 14:56:43	 - 	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-02-18 14:56:43	 - 	irc: client capability, requesting: sasl
+2017-02-18 14:56:43	 - 	irc: client capability, enabled: sasl
+2017-02-18 14:56:43	 - 	You are now logged in as hunedd. (hunedd!tyler@2601:199:c201:daa0:42e2:30ff:feca:495b)
+2017-02-18 14:56:43	 - 	SASL authentication successful
+2017-02-18 14:56:44	 - 	Welcome to the freenode Internet Relay Chat Network hunedd
+2017-02-18 14:56:44	 - 	Your host is hobana.freenode.net[2a02:2f0d:bff0:1:81:18:73:123/6667], running version ircd-seven-1.1.4
+2017-02-18 14:56:44	 - 	This server was created Fri Jan 13 2017 at 00:03:11 UTC
+2017-02-18 14:56:44	 - 	hobana.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-02-18 14:56:44	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-02-18 14:56:44	 - 	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX SAFELIST :are supported by this server
+2017-02-18 14:56:44	 - 	ELIST=CTU KNOCK CPRIVMSG CNOTICE :are supported by this server
+2017-02-18 14:56:44	 - 	There are 124 users and 84889 invisible on 27 servers
+2017-02-18 14:56:44	 - 	27 :IRC Operators online
+2017-02-18 14:56:44	 - 	19 :unknown connection(s)
+2017-02-18 14:56:44	 - 	57153 :channels formed
+2017-02-18 14:56:44	 - 	I have 4003 clients and 1 servers
+2017-02-18 14:56:44	 - 	4003 7444 :Current local users 4003, max 7444
+2017-02-18 14:56:44	 - 	85013 91751 :Current global users 85013, max 91751
+2017-02-18 14:56:44	 - 	Highest connection count: 7445 (7444 clients) (413756 connections received)
+2017-02-18 14:56:44	 - 	- hobana.freenode.net Message of the Day -
+2017-02-18 14:56:44	 - 	- Welcome to hobana.freenode.net in Bucharest, Romania! Thank
+2017-02-18 14:56:44	 - 	- you to RCS-RDS for sponsoring this server!
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	- Ion Hobana (1931-2011) was a Romanian science fiction writer,
+2017-02-18 14:56:44	 - 	- literary critic and ufologist. Ion Hobana is a literary
+2017-02-18 14:56:44	 - 	- pseudonym, the writer's real name being Aurelian Manta Rosie.
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	- Welcome to freenode - supporting the free and open source
+2017-02-18 14:56:44	 - 	- software communities since 1998.
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	- By connecting to freenode you indicate that you have read and
+2017-02-18 14:56:44	 - 	- accept our policies as set out on http://www.freenode.net
+2017-02-18 14:56:44	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2017-02-18 14:56:44	 - 	- any network-related questions or queries, where a number of
+2017-02-18 14:56:44	 - 	- volunteer staff and helpful users will be happy to assist you.
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2017-02-18 14:56:44	 - 	- together with like-minded FOSS enthusiasts for talks and
+2017-02-18 14:56:44	 - 	- real-life collaboration.
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	- We would like to thank Private Internet Access
+2017-02-18 14:56:44	 - 	- (https://www.privateinternetaccess.com/) and the other
+2017-02-18 14:56:44	 - 	- organisations that help keep freenode and our other projects
+2017-02-18 14:56:44	 - 	- running for their sustained support.
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	- In particular we would like to thank the sponsor
+2017-02-18 14:56:44	 - 	- of this server, details of which can be found above.
+2017-02-18 14:56:44	 - 	-
+2017-02-18 14:56:44	 - 	End of /MOTD command.
+2017-02-18 14:56:44	 - 	User mode [+i] by hunedd
+2017-02-19 10:50:05	 - 	irc: connecting to server irc.freenode.net/6667...
+2017-02-19 10:50:05	 - 	irc: connected to irc.freenode.net/6667 (82.96.96.11)
+2017-02-19 10:50:05	 - 	kornbluth.freenode.net: *** Looking up your hostname...
+2017-02-19 10:50:05	 - 	kornbluth.freenode.net: *** Checking Ident
+2017-02-19 10:50:05	 - 	kornbluth.freenode.net: *** No Ident response
+2017-02-19 10:50:06	 - 	kornbluth.freenode.net: *** Couldn't look up your hostname
+2017-02-19 10:50:06	 - 	irc: client capability, server supports: account-notify extended-join identify-msg multi-prefix sasl
+2017-02-19 10:50:06	 - 	irc: client capability, requesting: sasl
+2017-02-19 10:50:06	 - 	irc: client capability, enabled: sasl
+2017-02-19 10:50:06	 - 	You are now logged in as hunedd. (hunedd!tyler@208.167.254.96)
+2017-02-19 10:50:07	 - 	SASL authentication successful
+2017-02-19 10:50:07	 - 	Welcome to the freenode Internet Relay Chat Network hunedd
+2017-02-19 10:50:07	 - 	Your host is kornbluth.freenode.net[82.96.96.11/6667], running version ircd-seven-1.1.4
+2017-02-19 10:50:07	 - 	This server was created Sat Feb 11 2017 at 18:38:04 UTC
+2017-02-19 10:50:07	 - 	kornbluth.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2017-02-19 10:50:07	 - 	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2017-02-19 10:50:07	 - 	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+2017-02-19 10:50:07	 - 	CNOTICE KNOCK WHOX ETRACE :are supported by this server
+2017-02-19 10:50:07	 - 	There are 130 users and 83898 invisible on 27 servers
+2017-02-19 10:50:07	 - 	28 :IRC Operators online
+2017-02-19 10:50:07	 - 	15 :unknown connection(s)
+2017-02-19 10:50:07	 - 	56942 :channels formed
+2017-02-19 10:50:07	 - 	I have 3065 clients and 1 servers
+2017-02-19 10:50:07	 - 	3065 3208 :Current local users 3065, max 3208
+2017-02-19 10:50:07	 - 	84028 91751 :Current global users 84028, max 91751
+2017-02-19 10:50:07	 - 	Highest connection count: 3209 (3208 clients) (69716 connections received)
+2017-02-19 10:50:07	 - 	- kornbluth.freenode.net Message of the Day -
+2017-02-19 10:50:07	 - 	- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU.
+2017-02-19 10:50:07	 - 	- Thanks to Probe Networks (www.probe-networks.de) for
+2017-02-19 10:50:07	 - 	- sponsoring this server!
+2017-02-19 10:50:07	 - 	-
+2017-02-19 10:50:07	 - 	- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+2017-02-19 10:50:07	 - 	- an active member of the Futurians, Cyril Kornbluth sold his
+2017-02-19 10:50:07	 - 	- first story professionally at age 15.  By the 1940's his
+2017-02-19 10:50:07	 - 	- stories appeared widely under several pennames, including
+2017-02-19 10:50:07	 - 	- S.D. Gottesman and Cecil Corman.  He left his university
+2017-02-19 10:50:07	 - 	- studies in Chicago to serve in the Army in Europe during
+2017-02-19 10:50:07	 - 	- WWII, then returned to school and work in Chicago until he
+2017-02-19 10:50:07	 - 	- began writing full-time in 1951.  The author of The Marching
+2017-02-19 10:50:07	 - 	- Morons and the novels The Space Merchants (with Frederik
+2017-02-19 10:50:07	 - 	- Pohl) and The Syndic, he's best known for his biting social
+2017-02-19 10:50:07	 - 	- satire and his collaborations with Pohl and with Judith
+2017-02-19 10:50:07	 - 	- Merril.
+2017-02-19 10:50:07	 - 	- Welcome to freenode - supporting the free and open source
+2017-02-19 10:50:07	 - 	- software communities since 1998.
+2017-02-19 10:50:07	 - 	-
+2017-02-19 10:50:07	 - 	- By connecting to freenode you indicate that you have read and
+2017-02-19 10:50:07	 - 	- accept our policies as set out on http://www.freenode.net
+2017-02-19 10:50:07	 - 	- freenode runs an open proxy scanner. Please join #freenode for
+2017-02-19 10:50:07	 - 	- any network-related questions or queries

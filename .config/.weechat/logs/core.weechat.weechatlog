@@ -1,0 +1,102 @@
+2017-02-18 14:42:40		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:44:04		fifo: pipe closed
+2017-02-18 14:45:00		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:45:01		Options saved to sec.conf
+2017-02-18 14:45:01		Options saved to weechat.conf
+2017-02-18 14:45:01		Options saved to plugins.conf
+2017-02-18 14:45:01		Options saved to charset.conf
+2017-02-18 14:45:01		Options saved to logger.conf
+2017-02-18 14:45:01		Options saved to exec.conf
+2017-02-18 14:45:01		Options saved to trigger.conf
+2017-02-18 14:45:01		Options saved to aspell.conf
+2017-02-18 14:45:01		Options saved to alias.conf
+2017-02-18 14:45:01		Options saved to fifo.conf
+2017-02-18 14:45:01		Options saved to xfer.conf
+2017-02-18 14:45:01		Options saved to irc.conf
+2017-02-18 14:45:01		Options saved to relay.conf
+2017-02-18 14:45:01		Options saved to script.conf
+2017-02-18 14:45:03		fifo: pipe closed
+2017-02-18 14:45:48		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:45:58		irc: server freenode added
+2017-02-18 14:46:02	 !!! 	Error with command "/server freenode" (help on command: /help server)
+2017-02-18 14:48:40		fifo: pipe closed
+2017-02-18 14:48:43		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:49:05		Option changed: irc.server_default.sasl_mechanism = plain
+2017-02-18 14:49:31		0 option(s) reset, 0 option(s) removed
+2017-02-18 14:50:06		Option changed: irc.server.freenode.sasl_username = "hunedd"  (default if null: "")
+2017-02-18 14:50:23		Option changed: irc.server.freenode.sasl_password = "boomer101"  (default if null: "")
+2017-02-18 14:50:27		Options saved to sec.conf
+2017-02-18 14:50:27		Options saved to weechat.conf
+2017-02-18 14:50:27		Options saved to plugins.conf
+2017-02-18 14:50:27		Options saved to charset.conf
+2017-02-18 14:50:27		Options saved to logger.conf
+2017-02-18 14:50:27		Options saved to exec.conf
+2017-02-18 14:50:27		Options saved to trigger.conf
+2017-02-18 14:50:27		Options saved to aspell.conf
+2017-02-18 14:50:27		Options saved to alias.conf
+2017-02-18 14:50:27		Options saved to fifo.conf
+2017-02-18 14:50:27		Options saved to xfer.conf
+2017-02-18 14:50:27		Options saved to irc.conf
+2017-02-18 14:50:27		Options saved to relay.conf
+2017-02-18 14:50:27		Options saved to script.conf
+2017-02-18 14:50:45	 !!! 	Error: unknown command "/clear" (type /help for help)
+2017-02-18 14:50:47		[core]
+2017-02-18 14:50:47		  away     command  filter   key      plugin   reload   set      version
+2017-02-18 14:50:47		  bar      cursor   help     layout   print    repeat   unset    wait   
+2017-02-18 14:50:47		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2017-02-18 14:50:47		  color    eval     input    mute     quit     secure   uptime 
+2017-02-18 14:50:47		[alias]
+2017-02-18 14:50:47		  AAWAY    ANICK    CHAT     IG       LEAVE    N        SIGNOFF  V        WII    
+2017-02-18 14:50:47		  alias    BEEP     CL       J        M        Q        T        W        WW     
+2017-02-18 14:50:47		  AME      BYE      CLOSE    K        MSGBUF   REDRAW   UB       WC     
+2017-02-18 14:50:47		  AMSG     C        EXIT     KB       MUB      SAY      UMODE    WI     
+2017-02-18 14:50:47		[irc]
+2017-02-18 14:50:47		  admin       deop        kickban     nick        reconnect   servlist    users     
+2017-02-18 14:50:47		  allchan     devoice     kill        notice      rehash      squery      version   
+2017-02-18 14:50:47		  allpv       die         links       notify      remove      squit       voice     
+2017-02-18 14:50:47		  allserv     disconnect  list        op          restart     stats       wallchops 
+2017-02-18 14:50:47		  ban         halfop      lusers      oper        sajoin      summon      wallops   
+2017-02-18 14:50:47		  cap         ignore      map         part        samode      time        who       
+2017-02-18 14:50:47		  connect     info        me          ping        sanick      topic       whois     
+2017-02-18 14:50:47		  ctcp        invite      mode        pong        sapart      trace       whowas    
+2017-02-18 14:50:47		  cycle       ison        motd        query       saquit      unban     
+2017-02-18 14:50:47		  dcc         join        msg         quiet       server      unquiet   
+2017-02-18 14:50:47		  dehalfop    kick        names       quote       service     userhost  
+2017-02-18 14:50:47		[exec]
+2017-02-18 14:50:47		  exec
+2017-02-18 14:50:47		[xfer]
+2017-02-18 14:50:47		  me  xfer
+2017-02-18 14:50:47		[trigger]
+2017-02-18 14:50:47		  trigger
+2017-02-18 14:50:47		[guile]
+2017-02-18 14:50:47		  guile
+2017-02-18 14:50:47		[aspell]
+2017-02-18 14:50:47		  aspell
+2017-02-18 14:50:47		[relay]
+2017-02-18 14:50:47		  relay
+2017-02-18 14:50:47		[python]
+2017-02-18 14:50:47		  python
+2017-02-18 14:50:47		[script]
+2017-02-18 14:50:47		  script
+2017-02-18 14:50:47		[logger]
+2017-02-18 14:50:47		  logger
+2017-02-18 14:50:47		[charset]
+2017-02-18 14:50:47		  charset
+2017-02-18 14:50:47		[fifo]
+2017-02-18 14:50:47		  fifo
+2017-02-18 14:50:47		[perl]
+2017-02-18 14:50:47		  perl
+2017-02-18 14:51:07		fifo: pipe closed
+2017-02-18 14:51:09		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:51:12	 !!! 	Error with command "/server freenode" (help on command: /help server)
+2017-02-18 14:51:49		fifo: pipe closed
+2017-02-18 14:52:46		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:52:50	 !!! 	Error: option "nick" not found
+2017-02-18 14:53:58		Option changed: irc.server_default.nicks = "tyler"  (default: "")
+2017-02-18 14:54:13		Option changed: irc.server.freenode.nicks = """  (default if null: "tyler")
+2017-02-18 14:54:23		Option changed: irc.server_default.nicks = "hunedd"  (default: "")
+2017-02-18 14:54:25		Option changed: irc.server.freenode.nicks = """  (default if null: "hunedd")
+2017-02-18 14:55:48		fifo: pipe closed
+2017-02-18 14:55:55		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, perl, python, relay, script, trigger, xfer
+2017-02-18 14:56:18		Option changed: irc.server.freenode.nicks = "hunedd"  (default if null: "hunedd")
+2017-02-18 15:06:17		fifo: pipe closed
