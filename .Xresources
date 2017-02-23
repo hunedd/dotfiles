@@ -34,7 +34,7 @@
 URxvt*scrollBar:         false
 URxvt*scrollBar_right:   false
 
-URxvt*transparent:       false
+URxvt*transparent:       true
 
 URxvt.font: xft:Tewi:pixelsize=8
 URxvt.letterSpace: 0
