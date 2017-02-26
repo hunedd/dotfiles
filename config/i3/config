@@ -16,10 +16,10 @@ exec  --no-startup-id xrandr --output HDMI1 --off --output VIRTUAL1 --off --outp
 exec_always  --no-startup-id feh --bg-tile ~/Pictures/Wallpapers/wallpaper.png # Feh, for background.
 exec  --no-startup-id compton --config ~/.config/compton.conf # Compton and my config for it.
 exec  --no-startup-id  mpd # Music Player Daemon.
-exec xrandr --output VGA-1 --primary --mode 1920x1080 --pos 1366x0 --rotate normal --output HDMI-1 --off --output eDP-1 --off
-exec_always . /home/tyler/.config/polybar/launch.sh
+exec --no-startup-id xrandr --output VGA-1 --primary --mode 1920x1080 --pos 1366x0 --rotate normal --output HDMI-1 --off --output eDP-1 --off
+exec_always --no-startup-id . /home/tyler/.config/polybar/launch.sh
 # i3-gaps Settings
-gaps inner 10
+gaps inner 5
 gaps outer 5
 for_window [class="^.*"] border pixel 0
 # Mod Key
@@ -109,12 +109,13 @@ set $workspace1 "1:"
 set $workspace2 "2:"
 set $workspace3 "3:"
 set $workspace4 "4:"
+set $workspace5 "5:"
 # switch to workspace
 bindsym $mod+1 workspace $workspace1
 bindsym $mod+2 workspace $workspace2 
 bindsym $mod+3 workspace $workspace3
 bindsym $mod+4 workspace $workspace4
-bindsym $mod+5 workspace 5
+bindsym $mod+5 workspace $workspace5
 bindsym $mod+6 workspace 6
 bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
@@ -133,8 +134,10 @@ bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10
 
-assign [class="termite"] $workspace1
-assign [class="Firefox"] $workspace2
+assign [class="URxvt"] $workspace1
+assign [class="Vivaldi-stable"] $workspace2
+assign [class="discord"] $workspace4
+assign [class="Steam"] $workspace5
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)

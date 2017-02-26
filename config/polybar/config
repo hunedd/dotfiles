@@ -30,7 +30,7 @@ fixed-center = true
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 0
+line-size = 2
 line-color = #f00
 
 border-size = 0
@@ -47,9 +47,9 @@ font-1 = Wuncon Siji:pixelsize=7;1
 
 modules-left = i3
 modules-center = date
-modules-right = battery
-tray-position = right
-tray-padding = 2
+modules-right = vpncheck battery
+tray-position = false
+tray-padding = 
 ;tray-transparent = true
 ;tray-background = #0063ff
 
@@ -122,15 +122,15 @@ strip-wsnumbers = true
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
 
-label-mode-padding = 
+label-mode-padding = 0 
 label-mode-foreground = #000
 label-mode-background = ${colors.primary}
 
 ; focused = Active workspace on focused monitor
-label-focused =  %name% 
+label-focused = %name% 
 label-focused-background = 
-label-focused-underline = ${colors.foreground} 
-label-focused-padding = 1 
+label-focused-underline = #576d82 
+label-focused-padding = 0
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %name%
@@ -140,16 +140,16 @@ label-unfocused-padding = 1
 label-visible = %name%
 label-visible-background = 
 label-visible-underline = ${colors.foreground}
-label-visible-padding = 
+label-visible-padding = 0
 
 ; urgent = Workspace with urgency hint set
 label-urgent = %name%!
 label-urgent-background =
-label-urgent-padding = 
+label-urgent-padding = 0
 
 [module/mpd]
 type = internal/mpd
-format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+format-online = <label-song>
 
 icon-prev = 
 icon-stop = 
@@ -241,14 +241,14 @@ type = internal/date
 interval = 5
 
 date =
-date-alt = "%a, %b %d"
+date-alt ="%a, %b %d"
 
-time = %I:%M %P
+time =%I:%M %P
 time-alt = %I:%M %P
 
-format-prefix = 
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #0a6cf5
+format-prefix =
+format-prefix-foreground = #576d82
+format-underline = #576d82
 
 label = %date% %time%
 
@@ -288,7 +288,7 @@ full-at = 98
 label-charging = "%percentage%%"
 label-discharging = "%percentage%%"
 format-charging =<label-charging>
-format-charging-underline = #ffb52a
+format-charging-underline = #576d82
 
 format-discharging =<label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
@@ -326,6 +326,15 @@ ramp-0 = 
 ramp-1 = 
 ramp-2 = 
 ramp-foreground = ${colors.foreground-alt}
+
+[module/vpncheck]
+type = custom/script
+exec = pgrep openvpn
+interval = 5
+label = connected
+format-underline = #576d82
+format-prefix = ""
+format-prefix-foreground = #576d82
 
 [module/powermenu]
 type = custom/menu
